@@ -5,7 +5,17 @@
 [![React](https://img.shields.io/badge/React-18%20%7C%20TypeScript-61DAFB.svg)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python%203.13-009688.svg)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18.6-336791.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Production-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-five-green-70.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnandiniipatil/statiq-ai-learning-platform)
+
+---
+
+### 🌐 **Live Public Deployment (Vercel)**
+> 🔗 **Access the Live Platform:** **[https://frontend-five-green-70.vercel.app](https://frontend-five-green-70.vercel.app)**  
+> 
+> *The live deployment is publicly accessible without login walls. Anyone can test the entire platform with 1-click single-sign-on demo accounts for **Learner**, **Trainer**, and **Admin**.*
+
+---
 
 > **Empowering Capacity Building in India's Official Statistical System (MoSPI, NSSO, State DES)** through automated competency evaluation, gap analysis, iGOT Karmayogi course alignment, and document-to-assessment AI generation.
 
@@ -139,13 +149,16 @@ statiq-ai-learning-platform/
 
 ## 👥 Demo Accounts & Credentials
 
+> 🔗 **Test Live in Browser:** **[Open StatIQ on Vercel](https://frontend-five-green-70.vercel.app)**  
+> *(No local installation required — test all 3 roles directly using the quick demo login buttons)*
+
 The platform is pre-seeded with three comprehensive role accounts (password for all demo accounts is `Statiq@2025`):
 
-| Role | Email | Password | Primary Role & Assignment |
-| :--- | :--- | :--- | :--- |
-| **Learner** | `learner@statiq.gov` | `Statiq@2025` | Statistical Analyst (NSSO Socio-Economic Division) |
-| **Trainer** | `trainer@statiq.gov` | `Statiq@2025` | Senior Faculty (National Statistical Systems Training Academy - NSSTA) |
-| **Admin** | `admin@statiq.gov` | `Statiq@2025` | Director General / Workforce Administrator (MoSPI) |
+| Role | Email | Password | Primary Role & Assignment | Live Access |
+| :--- | :--- | :--- | :--- | :--- |
+| **Learner** | `learner@statiq.gov` | `Statiq@2025` | Statistical Analyst (NSSO Socio-Economic Division) | [Launch as Learner](https://frontend-five-green-70.vercel.app) |
+| **Trainer** | `trainer@statiq.gov` | `Statiq@2025` | Senior Faculty (National Statistical Systems Training Academy - NSSTA) | [Launch as Trainer](https://frontend-five-green-70.vercel.app) |
+| **Admin** | `admin@statiq.gov` | `Statiq@2025` | Director General / Workforce Administrator (MoSPI) | [Launch as Admin](https://frontend-five-green-70.vercel.app) |
 
 ---
 
