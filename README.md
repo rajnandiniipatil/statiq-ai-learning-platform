@@ -1,6 +1,6 @@
 # StatIQ — AI Skill Intelligence & Personalized Learning Platform
 
-[![Smart India Hackathon](https://img.shields.io/badge/SIH-2024%2F2025%20Problem%20SIH26101-blue.svg)](https://www.sih.gov.in/)
+[![Smart India Hackathon](https://img.shields.io/badge/SIH-2026%20Problem%20SIH26101-blue.svg)](https://www.sih.gov.in/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18%20%7C%20TypeScript-61DAFB.svg)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python%203.13-009688.svg)](https://fastapi.tiangolo.com/)
