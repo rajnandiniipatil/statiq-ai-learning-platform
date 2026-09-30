@@ -35,6 +35,7 @@ frontend/node_modules/
 node_modules/
 frontend/dist/
 dist/
+*.tsbuildinfo
 .eslintcache
 npm-debug.log*
 yarn-debug.log*
